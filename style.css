@@ -641,7 +641,7 @@ nav li a:hover {
 }
 .pro-forward-backward .fa {
   font-size: 40px;
-  color: #d2a679;
+  color:grey;
   border-radius: 0px;
   border-style: none;
 }
